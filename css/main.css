@@ -89,10 +89,10 @@ input, textarea {
 /*   01. General Styles
 _____________________________________ */
 
-   .hidden {
-       display: none;
-   }
+  .hidden {
+      display: none;
+  }
 
-   p {
+  p {
     margin-top: 1em;
-   }
+  }
